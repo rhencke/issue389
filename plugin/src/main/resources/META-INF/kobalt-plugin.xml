@@ -1,0 +1,6 @@
+<kobalt-plugin>
+    <name>kobalt-line-count</name>
+    <plugin-actors>
+        <class-name>com.example.Issue389Plugin</class-name>
+    </plugin-actors>
+</kobalt-plugin>
